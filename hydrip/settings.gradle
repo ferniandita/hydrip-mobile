@@ -1,0 +1,2 @@
+rootProject.name='hydrip'
+include ':app'
